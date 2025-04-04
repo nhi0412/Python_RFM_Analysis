@@ -59,29 +59,24 @@ These RFM values were then used to segment customers and generate actionable bus
 
 ### Data Exploration
 
-![Screenshot 2025-04-04 at 4.04.57 pm.png](attachment:91a1b0b9-5586-4a14-9336-24706a9eb3c1:Screenshot_2025-04-04_at_4.04.57_pm.png)
-
-![Screenshot 2025-04-04 at 4.05.22 pm.png](attachment:4a0af577-1d6e-4d1f-a9b4-a780e6fa5f40:Screenshot_2025-04-04_at_4.05.22_pm.png)
-
-![Screenshot 2025-04-04 at 4.05.36 pm.png](attachment:7abaed8e-5d36-4fea-9e7e-441a420dd146:Screenshot_2025-04-04_at_4.05.36_pm.png)
+<img width="618" alt="Image" src="https://github.com/user-attachments/assets/6c61bd3d-3ac6-4ab7-8ffc-ccd6f49f58c0" />
+<img width="638" alt="Image" src="https://github.com/user-attachments/assets/b483274a-cd36-4759-a097-e35f3400b890" />
+<img width="682" alt="Image" src="https://github.com/user-attachments/assets/dfa3dbca-800d-445c-b95e-a92f705436c5" />
 
 ### **Check missing values**
 
-![Screenshot 2025-04-04 at 4.07.45 pm.png](attachment:0342d395-a558-47e4-800a-f96d12c394cf:Screenshot_2025-04-04_at_4.07.45_pm.png)
 
-![Screenshot 2025-04-04 at 4.08.13 pm.png](attachment:11f54358-dcb3-4a39-82f3-03a80c833aef:ca850485-a6d8-4339-8db3-4407f4400ee6.png)
-
-![Screenshot 2025-04-04 at 4.08.46 pm.png](attachment:37e2038a-2870-4003-9b8a-c4ef9c2b3fce:3f5c15cf-8745-47c1-aa77-9ed526cb1c07.png)
+<img width="1028" alt="Image" src="https://github.com/user-attachments/assets/09dcda36-b27c-4ccb-b6fd-d80adadcafed" />
+![Image](https://github.com/user-attachments/assets/78063a45-cc03-4c64-a0d4-08370bd7894e)
+![Image](https://github.com/user-attachments/assets/bca9a5bc-063e-4134-a32a-a17737146bdf)
 
 ### Handle missing values
 
-![Screenshot 2025-04-04 at 4.09.22 pm.png](attachment:516814b2-2e6e-4b96-956c-2bea59d2983f:Screenshot_2025-04-04_at_4.09.22_pm.png)
+<img width="351" alt="Image" src="https://github.com/user-attachments/assets/d9f4879a-7044-4d8c-8ecb-32f7f12a7706" />
 
 ### **Check duplicate values**
-
-![Screenshot 2025-04-04 at 4.10.34 pm.png](attachment:92ddbf6a-b895-4c57-b959-51af1f0f8586:Screenshot_2025-04-04_at_4.10.34_pm.png)
-
-![Screenshot 2025-04-04 at 4.10.53 pm.png](attachment:3ae6af9a-6c7a-4e49-8a2b-33c7944c5e43:Screenshot_2025-04-04_at_4.10.53_pm.png)
+<img width="1095" alt="Image" src="https://github.com/user-attachments/assets/3b35fdaa-e6dc-474f-b060-e5f973329e07" />
+<img width="1105" alt="Image" src="https://github.com/user-attachments/assets/f878d7e5-6bb1-45bb-99d2-3638b566b6b3" />
 
 # **4. Data Processing**
 
