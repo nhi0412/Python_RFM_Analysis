@@ -82,7 +82,7 @@ These RFM values were then used to segment customers and generate actionable bus
 
 ### Invoice Summary Table
 
-<img width="690" alt="Image" src="https://github.com/user-attachments/assets/a1df4b6f-216d-47b1-b543-38d095e23d56" />
+<img width="690" alt="Image" src="https://github.com/user-attachments/assets/379c38ed-33d1-4cd7-ad61-399979871c68" />
 
 ### RFM
 
