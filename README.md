@@ -93,6 +93,7 @@ These RFM values were then used to segment customers and generate actionable bus
 ### Customer Segmentation Information
 
 <img width="1002" alt="Image" src="https://github.com/user-attachments/assets/86470e8e-ba81-431d-8334-1a3f1079825c" />
+
 # **5. Visualization**
 
 <img width="757" alt="Image" src="https://github.com/user-attachments/assets/38051ae9-cbc9-4c63-b516-170a3e1a3144" />
