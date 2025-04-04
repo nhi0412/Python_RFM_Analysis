@@ -67,8 +67,8 @@ These RFM values were then used to segment customers and generate actionable bus
 
 
 <img width="1028" alt="Image" src="https://github.com/user-attachments/assets/09dcda36-b27c-4ccb-b6fd-d80adadcafed" />
-![Image](https://github.com/user-attachments/assets/78063a45-cc03-4c64-a0d4-08370bd7894e)
-![Image](https://github.com/user-attachments/assets/bca9a5bc-063e-4134-a32a-a17737146bdf)
+<img width="1028" alt="Image" src="https://github.com/user-attachments/assets/78063a45-cc03-4c64-a0d4-08370bd7894e" />
+<img width="1028" alt="Image" src="https://github.com/user-attachments/assets/bca9a5bc-063e-4134-a32a-a17737146bdf" />
 
 ### Handle missing values
 
