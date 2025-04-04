@@ -82,29 +82,26 @@ These RFM values were then used to segment customers and generate actionable bus
 
 ### Invoice Summary Table
 
-![Screenshot 2025-04-04 at 4.13.34 pm.png](attachment:0b925839-8f4d-4d89-b88c-c9e9a73e8ea1:Screenshot_2025-04-04_at_4.13.34_pm.png)
+<img width="690" alt="Image" src="https://github.com/user-attachments/assets/a1df4b6f-216d-47b1-b543-38d095e23d56" />
 
 ### RFM
 
-![Screenshot 2025-04-04 at 4.14.45 pm.png](attachment:47e66859-8dab-451f-ad35-c9ed666ad92a:Screenshot_2025-04-04_at_4.14.45_pm.png)
-
-![Screenshot 2025-04-04 at 4.15.14 pm.png](attachment:48087bb0-f152-4707-841c-11f9b998a2c7:Screenshot_2025-04-04_at_4.15.14_pm.png)
-
-![Screenshot 2025-04-04 at 4.15.31 pm.png](attachment:f31b0646-6f27-4711-923b-bc09d8fb1f9f:Screenshot_2025-04-04_at_4.15.31_pm.png)
+<img width="615" alt="Image" src="https://github.com/user-attachments/assets/a0c46b5d-1114-41e7-b740-7fffaf14a601" />
+<img width="680" alt="Image" src="https://github.com/user-attachments/assets/a097dca4-407a-44e0-9850-f249323e2cd1" />
+<img width="845" alt="Image" src="https://github.com/user-attachments/assets/c4004aa8-7854-4887-99f4-0dcc66c7f44c" />
 
 ### Customer Segmentation Information
 
-![Screenshot 2025-04-04 at 4.17.18 pm.png](attachment:d347b6aa-2373-4f40-b966-c7d5db140da8:Screenshot_2025-04-04_at_4.17.18_pm.png)
-
+<img width="1002" alt="Image" src="https://github.com/user-attachments/assets/86470e8e-ba81-431d-8334-1a3f1079825c" />
 # **5. Visualization**
 
-![Screenshot 2025-04-04 at 4.18.40 pm.png](attachment:6a77d754-8b17-438c-9c8f-e41f5e72f826:Screenshot_2025-04-04_at_4.18.40_pm.png)
+<img width="757" alt="Image" src="https://github.com/user-attachments/assets/38051ae9-cbc9-4c63-b516-170a3e1a3144" />
 
 - Potential Loyalists make up the largest customer group. These are customers who have purchased recently and frequently buy. => Recommend: marketing campaigns, such as personalized promotions or loyalty incentives, to encourage repeat purchases with higher average transaction value them into Loyal or Champion customers.
 - Champions and Loyal segments already represent engaged and high-value customers. => Recommendation: Launching appreciation campaigns (e.g., exclusive offers, thank-you emails) will help strengthen relationships and retain them long term.
 - At-risk customers are the second largest group. => Recommendation: Reactivation campaigns (e.g., win-back discounts or reminders) can prevent them from dropping into Lost.
 
-![Screenshot 2025-04-04 at 4.19.32 pm.png](attachment:6f203deb-bccd-44c0-97a3-c673405c7484:Screenshot_2025-04-04_at_4.19.32_pm.png)
+<img width="568" alt="Image" src="https://github.com/user-attachments/assets/e504fdcb-535e-4187-88b3-15534761364b" />
 
 **Loyal customers:**
 
@@ -122,7 +119,7 @@ These RFM values were then used to segment customers and generate actionable bus
 - Lower median than Loyal
 - Moderate variability, but some spend a decent amount
 
-![Screenshot 2025-04-04 at 4.20.13 pm.png](attachment:2aea7112-821c-40ec-80cd-c67f3c7889c1:Screenshot_2025-04-04_at_4.20.13_pm.png)
+<img width="578" alt="Image" src="https://github.com/user-attachments/assets/602f0c79-3fa8-42a4-b4be-8750718a344d" />
 
 - The majority of potential customers placed their second order within the first 30 days after the first one => strong early engagement.
 - After 50 days, there is a sharp drop in follow-up orders, with frequency continuing to decline steadily over time.
@@ -130,18 +127,18 @@ These RFM values were then used to segment customers and generate actionable bus
 
 **Actions:** Target potential loyal customers with follow-up campaigns or promotions within the first 30 days and some vouchers to increase the chances of converting them into loyal buyers.
 
-![Screenshot 2025-04-04 at 4.20.52 pm.png](attachment:d1afc0eb-61a8-4238-90f2-b59638a03327:Screenshot_2025-04-04_at_4.20.52_pm.png)
+<img width="557" alt="Image" src="https://github.com/user-attachments/assets/8257d171-8c32-4c2c-9481-d6d06b20cb17" />
 
 - Loyal customers also tend to make their second purchase very quickly, with most of them doing so within 30 days.
 - Only a small portion delayed their second order beyond 150 days, which suggests these are less consistent or slower repeaters.
 
 **Actions:** Launching thank-you campaigns, early-access deals, or loyalty points programs right after the first order.
 
-![Screenshot 2025-04-04 at 4.21.37 pm.png](attachment:8c6b438b-9c30-425d-a23f-069d5c93bdb4:Screenshot_2025-04-04_at_4.21.37_pm.png)
+<img width="1166" alt="Image" src="https://github.com/user-attachments/assets/98fbc9c9-09f6-4416-8d4f-35c1d034dd3b" />
 
 As we can see, the UK has a much larger number of customers in each category compared to other countries. Therefore, it's hard to evaluate.
 
-![Screenshot 2025-04-04 at 4.22.18 pm.png](attachment:45c10fc3-b7a8-43b4-8be7-6821d9aa8579:Screenshot_2025-04-04_at_4.22.18_pm.png)
+<img width="1095" alt="Image" src="https://github.com/user-attachments/assets/8ea28a70-7880-4c98-bf6c-15c6b27d9468" />
 
 Loyal Customers:
 
